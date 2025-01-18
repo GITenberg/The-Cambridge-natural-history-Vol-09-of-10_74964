@@ -1,0 +1,53 @@
+_repo: The-Cambridge-natural-history-Vol-09-of-10_74964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Evans, A. H. (Arthur Humble)
+    alias: Evans, Arthur Humble
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '57747'
+    url: http://www.gutenberg.org/2009/agents/57747
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Humble_Evans
+  editors:
+  - agent_name: Harmer, S. F. (Sidney Frederic)
+    aliases:
+    - Harmer, Sidney Frederic, Sir
+    - Harmer, Sydney Frederic
+    birthdate: 1862
+    deathdate: 1950
+    gutenberg_agent_id: '56324'
+    url: http://www.gutenberg.org/2009/agents/56324
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Frederic_Harmer
+  - agent_name: Shipley, A. E. (Arthur Everett), Sir
+    alias: Shipley, Arthur Everett, Sir
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '44635'
+    url: http://www.gutenberg.org/2009/agents/44635
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Shipley
+description: ''
+gutenberg_issued: '2024-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74964'
+language: en
+pgterms:marc904: https://archive.org/details/cambridgenatural09harmuoft
+pgterms:marc905: 20210702101017harmer
+pgterms:marc906: '1899'
+pgterms:marc907: gb
+production_note: Keith Edkins, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcsh 'Animals'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Birds, by A. H. Evans.
+title: The Cambridge natural history, Vol. 09 (of 10)
+url: http://www.gutenberg.org/ebooks/74964
